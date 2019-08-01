@@ -1,7 +1,7 @@
 # GAN-2-Vec-Language-Modeling
 Repository for the project of course EECS397-Statistical Language Modeling
 
-## To view experients perforemed, visit fmnist directory
+## To view experients performed, visit fmnist directory
 
 ## To view our final report, visit Course_Report_SLM.pdf
 
